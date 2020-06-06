@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>听潮阁日记</title>
   
   
   <link href="/tingchaoge/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://gitee.com/tingchaoge/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>段世豪</name>
     
   </author>
   
