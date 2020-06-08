@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-08T06:36:14.179Z</updated>
+  <updated>2020-06-08T07:55:31.169Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《骑马与砍杀2：领主》v1.4.2</title>
+    <link href="http://yoursite.com/2020/06/08/202006084/"/>
+    <id>http://yoursite.com/2020/06/08/202006084/</id>
+    <published>2020-06-08T07:46:56.000Z</published>
+    <updated>2020-06-08T07:55:31.169Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;游戏介绍&quot;&gt;&lt;a href=&quot;#游戏介绍&quot; class=&quot;headerlink&quot; title=&quot;游戏介绍&quot;&gt;&lt;/a&gt;游戏介绍&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;《骑马与砍杀2：霸主(Mount &amp;amp; Blade II:
+        
+      
+    
+    </summary>
+    
+    
+      <category term="游戏" scheme="http://yoursite.com/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+      <category term="软件" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="游戏" scheme="http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>网站简介</title>
