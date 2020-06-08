@@ -3,11 +3,11 @@
   <title>听潮阁日记</title>
   
   
-  <link href="/tingchaoge/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/tingchaoge/"/>
+  <link href="http://tcgrj.github.io/"/>
   <updated>2020-06-08T03:15:51.841Z</updated>
-  <id>https://gitee.com/tingchaoge/</id>
+  <id>http://tcgrj.github.io/</id>
   
   <author>
     <name>段世豪</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>每日白嫖更新</title>
-    <link href="https://gitee.com/tingchaoge/2020/06/08/20200608/"/>
-    <id>https://gitee.com/tingchaoge/2020/06/08/20200608/</id>
+    <link href="http://tcgrj.github.io/2020/06/08/20200608/"/>
+    <id>http://tcgrj.github.io/2020/06/08/20200608/</id>
     <published>2020-06-08T03:03:18.000Z</published>
     <updated>2020-06-08T03:15:51.841Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="每日白菜价更新" scheme="https://gitee.com/tingchaoge/categories/%E6%AF%8F%E6%97%A5%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9B%B4%E6%96%B0/"/>
+      <category term="每日白菜价更新" scheme="http://tcgrj.github.io/categories/%E6%AF%8F%E6%97%A5%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9B%B4%E6%96%B0/"/>
     
     
-      <category term="薅羊毛" scheme="https://gitee.com/tingchaoge/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
+      <category term="薅羊毛" scheme="http://tcgrj.github.io/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
     
-      <category term="白嫖" scheme="https://gitee.com/tingchaoge/tags/%E7%99%BD%E5%AB%96/"/>
+      <category term="白嫖" scheme="http://tcgrj.github.io/tags/%E7%99%BD%E5%AB%96/"/>
     
-      <category term="白菜价" scheme="https://gitee.com/tingchaoge/tags/%E7%99%BD%E8%8F%9C%E4%BB%B7/"/>
+      <category term="白菜价" scheme="http://tcgrj.github.io/tags/%E7%99%BD%E8%8F%9C%E4%BB%B7/"/>
     
   </entry>
   
