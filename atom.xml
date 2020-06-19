@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-19T01:39:32.720Z</updated>
+  <updated>2020-06-19T06:40:13.668Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Premiere 2020 和 Photoshop 2020 软件分享</title>
+    <link href="http://yoursite.com/2020/06/19/ps-pr2020/"/>
+    <id>http://yoursite.com/2020/06/19/ps-pr2020/</id>
+    <published>2020-06-19T06:32:33.000Z</published>
+    <updated>2020-06-19T06:40:13.668Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;软件介绍&quot;&gt;&lt;a href=&quot;#软件介绍&quot; class=&quot;headerlink&quot; title=&quot;软件介绍&quot;&gt;&lt;/a&gt;软件介绍&lt;/h1&gt;&lt;p&gt;Adobe Premiere Pro
+        
+      
+    
+    </summary>
+    
+    
+      <category term="软件" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+      <category term="白嫖" scheme="http://yoursite.com/tags/%E7%99%BD%E5%AB%96/"/>
+    
+      <category term="软件" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>reku</title>
