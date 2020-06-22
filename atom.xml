@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-19T07:19:21.795Z</updated>
+  <updated>2020-06-22T06:25:43.930Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>每日白菜价更新</title>
-    <link href="http://yoursite.com/2020/06/19/meiribimai1/"/>
-    <id>http://yoursite.com/2020/06/19/meiribimai1/</id>
-    <published>2020-06-19T07:16:28.000Z</published>
-    <updated>2020-06-19T07:19:21.795Z</updated>
+    <link href="http://yoursite.com/2020/06/22/meiribimai1/"/>
+    <id>http://yoursite.com/2020/06/22/meiribimai1/</id>
+    <published>2020-06-22T06:25:28.000Z</published>
+    <updated>2020-06-22T06:25:43.930Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;blockquote&gt;
-&lt;p&gt;特价商品都是卖家赔本赚吆喝的，性价比超高，暂时低价卖，等销量上去以后，商家就会涨价。&lt;br&gt;咱只在低价的时候发给大家购买！特价商品随时涨价，看好立即购买，不要等优惠券没了。。&lt;br&gt;每日人工整理全网最低价最超值商品，让大家买得舒心用得舒心，欢迎大家
+          &lt;h1 id=&quot;买前必看&quot;&gt;&lt;a href=&quot;#买前必看&quot; class=&quot;headerlink&quot;
         
       
     
@@ -219,70 +218,6 @@
       <category term="薅羊毛" scheme="http://yoursite.com/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
     
       <category term="白嫖" scheme="http://yoursite.com/tags/%E7%99%BD%E5%AB%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日白嫖更新</title>
-    <link href="http://yoursite.com/2020/06/16/20200608/"/>
-    <id>http://yoursite.com/2020/06/16/20200608/</id>
-    <published>2020-06-15T19:15:18.000Z</published>
-    <updated>2020-06-16T07:18:31.702Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;特价商品都是卖家赔本赚吆喝的，性价比超高，暂时低价卖，等销量上去以后，商家就会涨价。&lt;/p&gt;
-&lt;p&gt;咱只在低价的时候发给大家购买！特价商品随时涨价，看好立即购买，不要等优惠券没了。。&lt;/p&gt;
-&lt;p&gt;每日人工整理全网最低价最超值商品，让大家买得舒心用得舒心，欢迎大家每天来看看
-        
-      
-    
-    </summary>
-    
-    
-      <category term="每日白菜价更新" scheme="http://yoursite.com/categories/%E6%AF%8F%E6%97%A5%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9B%B4%E6%96%B0/"/>
-    
-    
-      <category term="薅羊毛" scheme="http://yoursite.com/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
-    
-      <category term="白嫖" scheme="http://yoursite.com/tags/%E7%99%BD%E5%AB%96/"/>
-    
-      <category term="白菜价" scheme="http://yoursite.com/tags/%E7%99%BD%E8%8F%9C%E4%BB%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日白菜价更新</title>
-    <link href="http://yoursite.com/2020/06/09/2020060901/"/>
-    <id>http://yoursite.com/2020/06/09/2020060901/</id>
-    <published>2020-06-09T03:22:09.000Z</published>
-    <updated>2020-06-09T03:24:43.131Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;买前必看&quot;&gt;&lt;a href=&quot;#买前必看&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="每日白菜价更新" scheme="http://yoursite.com/categories/%E6%AF%8F%E6%97%A5%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9B%B4%E6%96%B0/"/>
-    
-    
-      <category term="薅羊毛" scheme="http://yoursite.com/tags/%E8%96%85%E7%BE%8A%E6%AF%9B/"/>
-    
-      <category term="白嫖" scheme="http://yoursite.com/tags/%E7%99%BD%E5%AB%96/"/>
-    
-      <category term="白菜价" scheme="http://yoursite.com/tags/%E7%99%BD%E8%8F%9C%E4%BB%B7/"/>
     
   </entry>
   
